@@ -36,8 +36,7 @@ function App() {
                 </button>
             </div>
 
-      // Using 'ReactPlayer' component to
-            // display the video
+     
             <ReactPlayer url={videoURL} controls={true} />
         </div>
     );
